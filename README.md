@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Harshit Kaushik
+#  Hi, I’m Harshit Kaushik
 
 I’m an aspiring **DevOps Engineer** and **AWS Cloud Engineer** with a passion for automation, cloud infrastructure, and building scalable systems.
 
 ---
 
-## 🚀 **What I Do:**
+##  **What I Do:**
 - Build and manage **CI/CD pipelines** using tools like Jenkins, ArgoCD, and GitHub Actions.
 - Automate cloud infrastructure with **Terraform** and deploy applications on **Kubernetes (EKS)**.
 - Optimize cloud costs and improve workflows using **AWS services** (EKS, VPC, ALB, S3, Lambda).
@@ -13,7 +13,7 @@ I’m an aspiring **DevOps Engineer** and **AWS Cloud Engineer** with a passion 
 
 ---
 
-## 💡 **Featured Projects:**
+##  **Featured Projects:**
 - **End-to-End CI/CD Implementation:** Built a Jenkins pipeline for Java apps with stages like build, testing, Docker image creation, and Kubernetes deployment using ArgoCD.
 - **Cloud Cost Optimization:** Automated EBS snapshot cleanup with AWS Lambda, reducing storage costs.
 - **Kubernetes Deployment on EKS:** Deployed scalable apps on AWS EKS with Fargate, ALB, and Helm.
@@ -21,7 +21,7 @@ I’m an aspiring **DevOps Engineer** and **AWS Cloud Engineer** with a passion 
 
 ---
 
-## 🛠️ **Tech Stack:**
+##  **Tech Stack:**
 - **Cloud:** AWS (EKS, EC2, S3, VPC, Lambda)
 - **CI/CD:** Jenkins, ArgoCD, GitHub Actions
 - **Containerization:** Docker, Kubernetes
@@ -30,15 +30,15 @@ I’m an aspiring **DevOps Engineer** and **AWS Cloud Engineer** with a passion 
 - **Tools:** Maven, Ansible, Git, Linux
 
 ---
-🔗 **Connect with Me:**
+ **Connect with Me:**
 - [LinkedIn](www.linkedin.com/in/harshit-kaushik-1a5059227)
 - [My Resume](https://github.com/harshitkaushik444555/my-resume)
 
-## 📚 **Always Learning:**
+##  **Always Learning:**
 I’m constantly exploring new tools and technologies to improve my skills and deliver efficient, scalable solutions.
 
 ---
 
-## 🌟 **Let’s Collaborate!**
+##  **Let’s Collaborate!**
 Feel free to explore my projects and reach out if you’d like to connect or work together!
 
