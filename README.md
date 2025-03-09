@@ -31,7 +31,7 @@ Aspiring DevOps engineer with experience in building and managing CI/CD pipeline
 
 ---
  **Connect with Me:**
-- [LinkedIn](www.linkedin.com/in/harshit-kaushik-1a5059227)
+- [LinkedIn]www.linkedin.com/in/harshit-kaushik-1a5059227
 - [My Resume](https://github.com/harshitkaushik444555/my-resume)
 
 ##  **Always Learning:**
