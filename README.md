@@ -42,6 +42,3 @@ I’m constantly exploring new tools and technologies to improve my skills and d
 ## 🌟 **Let’s Collaborate!**
 Feel free to explore my projects and reach out if you’d like to connect or work together!
 
-🔗 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/harshit-kaushik-la5059227)
-- Email: harshitkaushik44s55@gmail.com
