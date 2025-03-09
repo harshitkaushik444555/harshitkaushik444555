@@ -29,7 +29,7 @@ Aspiring DevOps engineer with experience in building and managing CI/CD pipeline
 - **Scripting:** Bash, Python
 - **Tools:** Maven, Ansible, Git, Linux
 
-
+---
 
 ##  **Always Learning:**
 I’m constantly exploring new tools and technologies to improve my skills and deliver efficient, scalable solutions.
