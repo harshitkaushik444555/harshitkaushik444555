@@ -1,6 +1,6 @@
 #  Hi, I’m Harshit Kaushik
 
-I’m an aspiring **DevOps Engineer** and **AWS Cloud Engineer** with a passion for automation, cloud infrastructure, and building scalable systems.
+Aspiring DevOps engineer with experience in building and managing CI/CD pipelines, automating cloud infrastructure, and deploying applications on Kubernetes. Skilled in using tools like Jenkins, Terraform, Docker, and ArgoCD, with experience in AWS services such as EKS, VPC, ALB, S3, and Lambda. Successfully implemented solutions to reduce cloud costs and save on log management. Experienced in automating processes, ensuring applications are scalable, and improving DevOps workflows.
 
 ---
 
