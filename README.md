@@ -29,10 +29,7 @@ Aspiring DevOps engineer with experience in building and managing CI/CD pipeline
 - **Scripting:** Bash, Python
 - **Tools:** Maven, Ansible, Git, Linux
 
----
- **Connect with Me:**
-- [LinkedIn](www.linkedin.com/in/harshit-kaushik-1a5059227)
-- [My Resume](https://github.com/harshitkaushik444555/my-resume)
+
 
 ##  **Always Learning:**
 I’m constantly exploring new tools and technologies to improve my skills and deliver efficient, scalable solutions.
